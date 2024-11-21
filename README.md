@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 First Blank app space created using Streamlit
 
 A simple Streamlit app template for you to modify!
 
